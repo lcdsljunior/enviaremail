@@ -1,0 +1,11 @@
+C:\temp\Projects\enviaremail\enviaremail\bin\Debug\enviaremail.exe.config
+C:\temp\Projects\enviaremail\enviaremail\bin\Debug\enviaremail.exe
+C:\temp\Projects\enviaremail\enviaremail\bin\Debug\enviaremail.pdb
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.csproj.AssemblyReference.cache
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.csproj.SuggestedBindingRedirects.cache
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.Form1.resources
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.Properties.Resources.resources
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.csproj.GenerateResource.cache
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.csproj.CoreCompileInputs.cache
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.exe
+C:\temp\Projects\enviaremail\enviaremail\obj\Debug\enviaremail.pdb
